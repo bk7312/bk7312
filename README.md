@@ -6,19 +6,19 @@ Current tech stack experience:
 
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,react,tailwind)](https://skillicons.dev)
 [![Backend](https://skillicons.dev/icons?i=firebase,appwrite)](https://skillicons.dev)
-[![Deployment](https://skillicons.dev/icons?i=vercel,netlify,github)](https://skillicons.dev)
+[![Deployment](https://skillicons.dev/icons?i=vite,vercel,netlify,github)](https://skillicons.dev)
 
 <hr/>
 
 Here's a rough roadmap of where I am and where I'm heading.
 
 - May 2023 - Completed the Scrimba Frontend Developer Career Path course (Teaches HTML/CSS/JS, React, React Router, Firebase, Netlify)! [View Certificate](https://scrimba.com/certificate/uY52m7Tk/gfrontend)
-- Jun 2023 - Completed my first hackathon (Used React, React Router, Appwrite, Tailwind CSS, Vercel)! [View Entry](https://bk7312.hashnode.dev/townsquare-an-open-source-forum-for-a-small-town)
+- Jun 2023 - Completed my first hackathon (Used React, React Router, Appwrite, Tailwind CSS, Vite, Vercel)! [View Entry](https://bk7312.hashnode.dev/townsquare-an-open-source-forum-for-a-small-town)
 
 Coming up next:
-- Learn next.js and typescript (I'll learn it next after getting better at React-ing and handling unexpected JS type errors, pun intended. Protip: Assume everything is a `string` and check accordingly. Yes, the `value` of `<input type="number"/>` is a `string`, and I just saved you an hour of debugging.)
-- Learn UI design principles, Modern CSS, and styled components (Jul 2023)
-- Learn the AWS or Azure platform (Maybe AWS in Jul 2023 by participating in this [hackathon](https://hashnode.com/hackathons/aws-amplify-2023))
+- Learn Next.js and TypeScript (I'll learn T<sub>hi</sub>S Next after getting better at React-ing and handling unexpected JS type errors, pun intended.)
+- Learn the AWS or Azure platform (Maybe AWS in Jul 2023 by participating in this [AWS hackathon](https://hashnode.com/hackathons/aws-amplify-2023)?)
+- Learn UI design principles, Modern CSS, and styled components (Q3 2023)
 - Learn unit testing, git version control and staging (Q3 2023)
 - Learn server-side rendering, edge and serverless functions (Q3 2023)
 - Learn Svelte and Astro (Q4 2023)
@@ -30,7 +30,7 @@ Coming up next:
 
 - 🔭 I’m currently working on creating an impressive portfolio (still a long way to go)!
 - 🌱 I’m currently learning front-end development and UI design.
-- 👯 I’m looking to collaborate on any open-source JS projects that aren't too big and complicated yet 😅. 
+- 👯 I’m looking to collaborate on any open-source JS/TS projects that aren't too big and complicated yet 😅. 
 - 🤔 I’m looking for help with transitioning to a front-end/fullstack developer career.
 - 💬 Ask me about anything!
 - 📫 How to reach me: You can find me on [LinkedIn](https://www.linkedin.com/in/bklim1/), or schedule a call on [Calendly](https://calendly.com/bk7312/call) and let's chat!
