@@ -18,7 +18,7 @@ Q2 2023
 - Created [simple-todo](https://github.com/bk7312/simple-todo), [quiz-show](https://github.com/bk7312/quiz-show), and [scott-gpt](https://github.com/bk7312/scott-gpt) in vanilla JS
 
 Q3 2023
-- Completed CS50's Introduction to Computer Science (Used C, Python, Flask, Git) [View Certificate](https://cs50.harvard.edu/certificates/0cdbfcb9-cf48-400e-8ede-9259001ddd24)
+- Completed CS50's Introduction to Computer Science in July (Used C, Python, Flask, Git) [View Certificate](https://cs50.harvard.edu/certificates/0cdbfcb9-cf48-400e-8ede-9259001ddd24)
 - Created [login2win](https://github.com/bk7312/cs50x-project) in Python/Flask as part of my CS50x final project
 - Created a [UI clone of Elicit](https://github.com/bk7312/elicit-clone) in React, React Router, TypeScript, and Chakra UI
 
